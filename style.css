@@ -1,0 +1,26 @@
+
+.allContainer{
+    /* border: solid 2px; */
+    margin: 7% auto;
+    width: 40%;
+    padding: 50px 0 90px;
+    background-color: #BCCCE1;
+    text-align: center;
+}
+.form > h1{
+ color: #1768A4;
+ font-size: 3em;
+}
+.form > ul{
+    list-style: none;
+}
+.form > input{
+    padding: 7px 25px;
+    border: none;
+}
+.form > span > button{
+    padding: 7px;
+    border: none;
+    background-color:#1768A4 ;
+    color: white;
+}
